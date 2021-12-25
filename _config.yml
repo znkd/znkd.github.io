@@ -49,4 +49,4 @@ imgrepo: "https://bit-ranger.github.io/blog/static/img"
 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
