@@ -14,10 +14,10 @@ title = "关于我"
 
 ## 技术栈
 
-- 编程语言: Go, Python, JavaScript
+- 编程语言: C, C++, Swift, Objective-C, Python, shell
 - Web 开发: React, Vue, Node.js
-- 数据库: MySQL, MongoDB, Redis
-- 开发工具: VS Code, Git, Docker
+- 数据库: MongoDB, Redis, SQLite
+- 开发工具: Xcode, AI agent, VS Code, Git
 
 ## 联系我
 
