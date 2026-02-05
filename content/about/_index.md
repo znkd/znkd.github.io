@@ -21,8 +21,8 @@ title = "关于我"
 
 ## 联系我
 
-- GitHub: [znkd1](https://github.com/znkd1)
-- 邮箱: ericzhang1221@163.com
+- GitHub: [znkd](https://github.com/znkd)
+- 邮箱: 
 
 ## 其他
 
