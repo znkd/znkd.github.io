@@ -1,6 +1,6 @@
 baseURL = 'https://znkd1.github.io'  # 移除末尾的斜杠以兼容 GitHub Pages
 languageCode = 'zh-cn'
-title = '炼金室'
+title = '炼金室 🧪'  # 添加了一个表情符号作为测试更改
 theme = 'PaperMod'
 publishDir = 'docs'  # 设置发布目录为 docs
 
