@@ -2,7 +2,7 @@ baseURL = 'https://znkd.github.io'  # 移除末尾的斜杠以兼容 GitHub Page
 languageCode = 'zh-cn'
 title = '炼金室 🧪'  # 添加了一个表情符号作为测试更改
 theme = 'PaperMod'
-publishDir = 'docs'  # 设置发布目录为 docs
+# publishDir = 'docs'  # 设置发布目录为 docs (已禁用，以便与 GitHub Actions 匹配)
 
 disableKinds = ["RSS"]  # 只禁用 RSS
 
