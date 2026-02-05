@@ -1,0 +1,7 @@
+{
+  "name": "znkd-blog",
+  "scripts": {
+    "dev": "hugo server -D",
+    "build": "hugo --minify"
+  }
+}

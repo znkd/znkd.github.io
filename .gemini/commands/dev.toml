@@ -1,0 +1,5 @@
+[command]
+name = "dev"
+description = "启动 Hugo 本地开发服务器 (hugo server -D)"
+executable = "hugo"
+arguments = ["server", "-D"]
