@@ -1,4 +1,4 @@
-baseURL = 'https://znkd1.github.io/'
+baseURL = 'https://znkd1.github.io'  # 移除末尾的斜杠以兼容 GitHub Pages
 languageCode = 'zh-cn'
 title = '炼金室'
 theme = 'PaperMod'
