@@ -2,6 +2,7 @@ baseURL = 'https://znkd1.github.io/'
 languageCode = 'zh-cn'
 title = '炼金室'
 theme = 'PaperMod'
+publishDir = 'docs'  # 设置发布目录为 docs
 
 disableKinds = ["RSS"]  # 只禁用 RSS
 
