@@ -1,6 +1,32 @@
-_site
-.sass-cache
-.idea
-.local
-.local/*
-.jekyll-cache
+# Hugo 默认忽略规则
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+hugo-stats.json
+
+# 构建输出目录
+/public
+/resources
+/.hugo_build.lock
+
+# 开发环境
+.hugo_build.lock
+
+# 编辑器相关
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 本地开发环境
+.local/
+
+# 其他
+.sass-cache/
+.jekyll-cache/
+
+# 本地构建目录（由 GitHub Actions 负责构建）
+/docs/
